@@ -14,37 +14,32 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-
-  <<< Author notes: Step 5 >>>
-  <<< Author notes: Step 6 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 5: Apply suggested changes
-this is a suggestion
-_Nicely done suggesting changes! :partying_face:_
+## Finish
 
-Now let's see how easy it is to [apply your suggestion](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/incorporating-feedback-in-your-pull-request).
+_Congratulations friend, you've completed this course!_
 
-### :keyboard: Activity: Apply suggested changes
+<img src=https://octodex.github.com/images/hula_loop_octodex03.gif alt=celebrate width=300 align=right>
 
-1. Click **Commit suggestion**.
-1. Type a commit message.
-1. Click **Commit changes**.
+As you continue working on GitHub, remember that high quality reviews improve your projects. If you are new to a repository, inquire about what review practices they have so you can hit the ground running.
 
-## Step 6: Merge your pull request
+Here's a recap of all the tasks you've accomplished in your repository:
 
-_Almost there! :heart:_
+- You learned how to assign pull requests for review.
+- You left a review on a pull request.
+- You suggested changes to a pull request.
+- You applied suggested changes to a pull request.
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
+### What's next?
 
-### :keyboard: Activity: Merge your pull request
-
-1. Click **Merge pull request**.
-1. Delete the branch `update-game` (optional).
-
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- Try adding a [`CODEOWNERS`](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners) file to your project to automatically assign reviewers to pull requests.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/review-pull-requests).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
@@ -61,4 +56,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-
